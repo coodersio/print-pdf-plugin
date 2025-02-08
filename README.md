@@ -1,6 +1,6 @@
 # Print PDF for Figma
 
-![Print PDF for Figma Cover Art](https://mintlify.s3.us-west-1.amazonaws.com/cooderspixel/images/print-cover.jpg)
+![Print PDF for Figma Cover Art](/cover.jpg)
 
 Welcome to the Print PDF Figma plugin repository. This repository's purpose is publish documentation about the plugin and serve as a public forum for plugin authors and users to submit defects and feature ideas and monitor their status.
 
